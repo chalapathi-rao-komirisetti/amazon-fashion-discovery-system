@@ -1,4 +1,4 @@
-## Amazon-Fashion-Discovery-Engine
+## Amazon-Fashion-Discovery-System
 
 Build a recommendation engine which suggests similar products (apparel) to the given product (apparel) in any e-commerce websites.
 
